@@ -1,1 +1,0 @@
-document.querySelector("#texto").innerText="O verão ta de lascar"
